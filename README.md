@@ -49,7 +49,7 @@ LibraryManagementSystem/
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/RRRBuildology/library-management-system.git
+git clone https://github.com/RRRBuildology/library-management-system
 cd library-management-system
 ```
 
@@ -59,3 +59,26 @@ python main.py
 ```
 
 ## Screenshots
+1. Register New Member
+
+! [Screenshot 1](screenshots/s1.png)
+
+2. Add New Book to Catalog
+
+! [Screenshot 2](screenshots/s2.png)
+
+3. Search for a Book 
+
+! [Screenshot 3](screenshots/s3.png)
+
+4. Issue a Book to Member
+
+! [Screenshot 4](screenshots/s4.png)
+
+5. Return a Book
+
+! [Screenshot 5](screenshots/s5.png)
+
+6.View All Members and Exit 
+
+! [Screenshot 6](screenshots/s6.png)
